@@ -14,3 +14,17 @@ The training dataset contains labelled airline sentiment data that has tweets ab
 - Word Clouds are plotted to obtain most common words used in positive and negative reviews of both the datasets. 
 
 Visualizations and analysis are made based on the model output and Word Cloud.
+
+![plot](https://github.com/parineeta16/Twitter-Sentiment-Analysis-on-Uber-and-Lyft/blob/master/Uber.jpg)
+![plot](https://github.com/parineeta16/Twitter-Sentiment-Analysis-on-Uber-and-Lyft/blob/master/Lyft.jpg)
+
+Difficulties:
+
+1) Many of the tweets were sarcastic and
+irrelevant to the ride-sharing companies.
+
+2) Applying decision tree algorithms like Random
+Forest was quite a challenge since it consumed
+memory, CPU power, and would take days to
+run making it difficult to fine-tune.
+
